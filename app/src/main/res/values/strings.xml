@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carnét Digital</string>
+    <string name="main_nombres_y_apellidos">Nombres y apellidos</string>
+    <string name="main_carrera">Especialidad:</string>
+    <string name="main_software">Software e Integración</string>
+    <string name="main_direccion">Dirección:</string>
+    <string name="main_dni">DNI:</string>
+    <string name="main_tele">Teléfono:</string>
+</resources>
